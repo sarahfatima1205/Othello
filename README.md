@@ -15,3 +15,9 @@ Team members names: Radhika Agarwal, Reshma Maurya, Nishu Verma, Sarah Fatima
 12. if a player is not able to sandwich any disc in any direction, they need to pass the turn to the next player
 13. this is done using func as well
 14. if both the players are unable to sandwich their respective opponent's disc, the game ends providing exit and restart option
+
+How to run this project?
+1. run HTML page on your device, read the game rules
+2. click on "lets go!"
+3. the code of the game appears on the screen
+4. run the code, enjoy :)  
