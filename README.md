@@ -3,7 +3,7 @@ Team members names: Radhika Agarwal, Reshma Maurya, Nishu Verma, Sarah Fatima
 
 1. inputs players' name, there are 2 players, one is O other is X
 2. board prints which is 8x8, starting 4 cells are filled initially
-3. we add locations in x,y coordinate system
+3. we add locations in x,y coordinate system, which are two space separated integers.
 4. each player inputs locations alternatively
 5. it checks if the input is valid using check_valid
 6. opponents disc should get sandwiched. this is checked using func
