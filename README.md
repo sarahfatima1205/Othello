@@ -1,6 +1,6 @@
 # Othello Game in C
 
-**ICS_CP_OthelloCrafters** is a console-based implementation of the classic strategy board game Othello (also known as Reversi), developed in the C programming language. This project was created by team members: Radhika Agarwal, Reshma Maurya, Nishu Verma, and Sarah Fatima.
+**Othello** is a console-based implementation of the classic strategy board game Othello (also known as Reversi), developed in the C programming language.
 
 ---
 
