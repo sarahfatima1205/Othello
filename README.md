@@ -62,23 +62,6 @@ Othello_Game-_with_C/
 
 ---
 
-## 📷 Screenshots
-
-*Add screenshots here to showcase the game's interface.*
-
----
-
-## 📄 License
-
-*Specify the license under which the project is distributed, if applicable.*
-
----
-
-## 🤝 Acknowledgments
-
-We extend our gratitude to our mentors and peers who supported us throughout the development of this project.
-
----
 
 ## 📬 Contact
 
